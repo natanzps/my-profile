@@ -66,8 +66,13 @@ header p {
 }
 
 /* --- Section Titles (h1, h2, h3) --- */
-h1, h2, h3 {
+h1, h2, {
   color: darkblue;
+  font-weight: normal;
+}
+
+h3 {
+  color: #31ACD3;
   font-weight: normal;
 }
 
