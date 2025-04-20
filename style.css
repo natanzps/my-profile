@@ -62,12 +62,12 @@ header p {
 }
 
 .btn-main:hover {
-  background-color: #FFFF00; /* Couleur plus claire au survol */
+  background-color: #FF6600; /* Couleur plus claire au survol */
 }
 
 /* --- Section Titles (h1, h2, h3) --- */
 h1, h2, h3 {
-  color: brown;
+  color: yellow;
   font-weight: normal;
 }
 
