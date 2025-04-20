@@ -33,12 +33,12 @@ header {
 
 header h1 {
   margin: 0;
-  color: brown;
+  color: darkblue;
 }
 
 header p {
   font-size: 1.2em;
-  color: brown;
+  color: darkblue;
 }
 
 /* --- Profile Picture --- */
@@ -54,7 +54,7 @@ header p {
 .btn-main {
   display: inline-block;
   padding: 10px 20px;
-  background-color: brown;
+  background-color: darkblue;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -67,7 +67,7 @@ header p {
 
 /* --- Section Titles (h1, h2, h3) --- */
 h1, h2, h3 {
-  color: orange;
+  color: cyan;
   font-weight: normal;
 }
 
@@ -124,7 +124,7 @@ a {
 }
 
 a:hover {
-  color: brown;
+  color: darkblue;
   text-decoration: underline;
 }
 
